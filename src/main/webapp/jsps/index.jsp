@@ -60,11 +60,11 @@
                 </div>
             </button>
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                <ul class="navbar-nav nav-dropdown" data-app-modern-menu="true"><li class="nav-item"><a class="nav-link link text-black text-primary display-4" href="index.html#content4-2">
+                <ul class="navbar-nav nav-dropdown" data-app-modern-menu="true"><li class="nav-item"><a class="nav-link link text-black text-primary display-4" href="index.jsp#content4-2">
                             About us</a></li>
-                    <li class="nav-item"><a class="nav-link link text-black text-primary display-4" href="index.html#features19-g">
+                    <li class="nav-item"><a class="nav-link link text-black text-primary display-4" href="index.jsp#features19-g">
                             System-specs.</a></li>
-                    <li class="nav-item"><a class="nav-link link text-black text-primary display-4" href="index.html#form1-e">Contacts</a>
+                    <li class="nav-item"><a class="nav-link link text-black text-primary display-4" href="index.jsp#form1-e">Contacts</a>
                     </li></ul>
                 
                 <div class="navbar-buttons mbr-section-btn"><a class="btn btn-primary display-4" href="assets/files/flyer-class30.pdf" target="_blank">
@@ -191,10 +191,10 @@
                 <ul class="foot-menu">
    
                     <li class="foot-menu-item mbr-fonts-style display-7">
-                        <a class="text-white text-primary" href="index.html#content4-2" target="_blank">About us</a></li>
+                        <a class="text-white text-primary" href="index.jsp#content4-2" target="_blank">About us</a></li>
                     <li class="foot-menu-item mbr-fonts-style display-7"><a href="#top" class="text-primary">Head</a></li>
                     <li class="foot-menu-item mbr-fonts-style display-7">
-                        <a class="text-white text-primary" href="index.html#form4-4" target="_blank">Contact Us</a></li>
+                        <a class="text-white text-primary" href="index.jsp#form4-4" target="_blank">Contact Us</a></li>
                     <li class="foot-menu-item mbr-fonts-style display-7">
                         <a class="text-white text-primary" href="https://mylandmarktech.com/" target="_blank">Careers</a></li>
                     <li class="foot-menu-item mbr-fonts-style display-7"><a href="mailto:serene7n@gmail.com" class="text-primary">Admin-help</a></li>
