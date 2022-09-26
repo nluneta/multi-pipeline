@@ -10,7 +10,7 @@ pipeline {
         stage(‘1SCM’){
             steps{
                 sh 'echo "apps latest version committed"'
-                git "https://github.com/nluneta/multi-pipeline.git"
+                git branch: 'bug-fix', url: 'https://github.com/nluneta/multi-pipeline.git'
             }
         }
         stage(‘2Build’){
